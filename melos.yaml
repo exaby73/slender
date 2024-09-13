@@ -1,0 +1,4 @@
+name: slender
+
+packages:
+  - packages/*
